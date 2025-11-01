@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html{scroll-behavior:smooth}
+body{@apply bg-bg text-ink font-sans leading-[1.55];}
+@layer base{ :root{ color-scheme: dark; } }
